@@ -11,6 +11,7 @@
 <ul>
   <li> <b>pandas : </b> for data frames
   <li> <b>numpy : </b> for manipulation
+   <li> <b>sklearn : </b> for KMeans Clustering
   <li> <b>folium : </b> for map based plotting
 </ul>
 <br>
